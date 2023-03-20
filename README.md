@@ -1,6 +1,3 @@
-TypeScript Deep Dive
-Este projeto, denominado TypeScript Deep Dive, foi criado para fornecer uma visão aprofundada do TypeScript, incluindo conteúdo básico, programação orientada a objetos, uso de decoradores e generics.
-
 # Estrutura do projeto
 
 O projeto está dividido em quatro pastas principais, cada uma contendo conteúdo específico sobre um aspecto particular do TypeScript:
