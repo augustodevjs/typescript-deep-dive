@@ -1,11 +1,11 @@
-# Estrutura do projeto
+# Project Structure
 
-O projeto está dividido em quatro pastas principais, cada uma contendo conteúdo específico sobre um aspecto particular do TypeScript:
+The project is divided into four main folders, each containing specific content about a particular aspect of TypeScript:
 
-basic: contém o conteúdo básico do TypeScript, incluindo tipos de dados, variáveis, funções, etc.
+basic: contains the basic content of TypeScript, including data types, variables, functions, etc.
 
-poo: contém conteúdo sobre programação orientada a objetos com TypeScript, como classes, interfaces, herança, encapsulamento, polimorfismo, etc.
+oop: contains content about object-oriented programming with TypeScript, such as classes, interfaces, inheritance, encapsulation, polymorphism, etc.
 
-decorators: contém conteúdo sobre o uso de decoradores em TypeScript, incluindo como criar e usar decoradores personalizados.
+decorators: contains content about the usage of decorators in TypeScript, including how to create and use custom decorators.
 
-generics: contém conteúdo sobre o uso de generics em TypeScript, incluindo o que são generics, como usá-los em funções, classes e interfaces, etc.
+generics: contains content about the usage of generics in TypeScript, including what generics are, how to use them in functions, classes, interfaces, etc.
